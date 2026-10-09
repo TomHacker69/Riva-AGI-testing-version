@@ -16,5 +16,5 @@
 - **Sandhya Singh** - RAG / Knowledge Base
 - **Vaishali Singh** - Integration/APIs
 - **Akshit Kumar** - Web Development
-- **Ankit Singh Tomar - Web Devlopment
+- **Ankit Singh Tomar** - Web Devlopment
   
